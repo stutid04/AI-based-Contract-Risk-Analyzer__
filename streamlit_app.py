@@ -25,7 +25,7 @@ import os
 
 API_BASE = os.getenv(
     "API_BASE_URL",
-    "http://127.0.0.1:8080/api/v1"
+    "https://ai-based-contract-risk-analyzer-mfn1.onrender.com/api/v1"
 )
 
 # ─── Clause description mapping (unchanged from v2) ───────────────────────────
